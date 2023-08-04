@@ -1,0 +1,36 @@
+body{
+     background-size: cover;
+}
+
+#heading{
+     font-size: 23px;
+     width:100%;
+     margin: 0px;
+     text-align: center;
+}
+
+#note{
+     font-size: small;
+     text-align: left;
+}
+
+#start,#num_obj,#status{
+     font-size: 18px;
+}
+
+.coppy_right_footer{
+     position: fixed;
+     color: aliceblue;
+     background-color: forestgreen;
+     bottom: 0;
+     width: 100%;
+     line-height: 3;
+     text-align: center;
+}
+
+canvas{
+     border: 2px  solid  white;
+     border-radius: 15px;
+     margin-top: 130px;
+     box-shadow: 5px 5px 5px white;
+}
